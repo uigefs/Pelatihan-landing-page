@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<HTML>
+<head>
+<title><data:blog.title/></title>
+<b:skin><![CDATA[
+body {background-color: #cab894;background-position: center center;}
+a:link {font-family: 'PT Serif Caption', serif; font-size: 15px; color:#3094db;}
+a:hover {color: #4d4544;}
+a {color: #3094db;}
+]]></b:skin>
+</head>
+<body>
+<b:section class='main' id='main'>
+  <b:widget id='Blog1' locked='true' title='Posting Blog' type='Blog'></b:widget>
+</b:section>
+</body>
+</HTML>
